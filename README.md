@@ -4,12 +4,7 @@
 
 
 ****
-### yes this is a joke
-
-****
-# Requirements:
-* PyPy
-    * For performance reason
+### yes this is a joke but also it can't be
 
 ****
 # To do:
@@ -21,7 +16,7 @@
 * eval
 * Fix code for better performance
 
-## I will be happy if you can help me do  that all functions :)
+## I can't do all that things alone, but maybe you can help me
 
 ****
 # How it work?
