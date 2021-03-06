@@ -1,4 +1,4 @@
-# PythonScript
+# PythonScript 1.0
 
 ## PythonScript is a programming language that written in Python
 
