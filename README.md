@@ -4,13 +4,6 @@
 
 
 ****
-# FAQ
-
-## Why!?
-### idk
-## I hate you
-### ok
-## Tell me this is just a joke
 ### yes this is a joke
 
 ****
