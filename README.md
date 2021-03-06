@@ -16,8 +16,6 @@
 * eval
 * Fix code for better performance
 
-## I can't do all that things alone, but maybe you can help me
-
 ****
 # How it work?
 * It process every characters
