@@ -9,7 +9,7 @@
 ****
 # To do:
 * Variable
-* Import module
+* Import module (support python module)
 * if, elif and else
 * function
 * while and for loop
